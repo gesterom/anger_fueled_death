@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "anger_fueled_death", "anger_fueled_death\anger_fueled_death.vcxproj", "{79A75D19-92BD-404D-9922-65804188A658}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79A75D19-92BD-404D-9922-65804188A658}.Debug|x64.ActiveCfg = Debug|x64
+		{79A75D19-92BD-404D-9922-65804188A658}.Debug|x64.Build.0 = Debug|x64
+		{79A75D19-92BD-404D-9922-65804188A658}.Debug|x86.ActiveCfg = Debug|Win32
+		{79A75D19-92BD-404D-9922-65804188A658}.Debug|x86.Build.0 = Debug|Win32
+		{79A75D19-92BD-404D-9922-65804188A658}.Release|x64.ActiveCfg = Release|x64
+		{79A75D19-92BD-404D-9922-65804188A658}.Release|x64.Build.0 = Release|x64
+		{79A75D19-92BD-404D-9922-65804188A658}.Release|x86.ActiveCfg = Release|Win32
+		{79A75D19-92BD-404D-9922-65804188A658}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B69235BF-8295-416C-92CE-45A0038D06C8}
+	EndGlobalSection
+EndGlobal
