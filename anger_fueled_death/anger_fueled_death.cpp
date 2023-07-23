@@ -46,4 +46,5 @@ int main() {
 	}
 
 	update(registry);
+	std::cout<< "Hello world" << std::endl;
 }
